@@ -42,4 +42,10 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>myMavenRepo</id>
+            <url>https://mymavenrepo.com/repo/eUWUNZTwakOS0mHhCZLq/</url>
+        </repository>
+    </distributionManagement>
 </project>
